@@ -1,0 +1,6 @@
+@softone_task_management_backend_HostAddress = http://localhost:5111
+
+GET {{softone_task_management_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
